@@ -8,7 +8,9 @@ This is a template repository for data analytics projects.
 - `CHANGELOG.md`: Tracks changes to the project.
 - `.ipynb` files: Jupyter Notebooks for different stages of the project.
 - `TODO.md`: Keeps a to-do list to keep the project on track.
-
+- `data`: folder to keep all needed data in one spot.
+- `assets`: Keeps a folder of assets needed.
+- `scripts`: Keeps scripts needed.
 ## Usage
 I will store all of my project requirements in the data analytics template for effective and clean work.
 
