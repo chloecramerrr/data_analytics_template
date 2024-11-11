@@ -10,3 +10,6 @@ This is a template repository for data analytics projects.
 
 ## Usage
 I will store all of my project requirements in the data analytics template for effective and clean work.
+
+## Data
+These are the links to the sample data I am using in the project:https://www.kaggle.com/datasets/dgomonov/new-york-city-airbnb-open-data AND https://streeteasy.com/
